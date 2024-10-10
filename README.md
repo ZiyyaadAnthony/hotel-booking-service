@@ -17,7 +17,7 @@ This is a hotel booking service built using Spring Boot. The API allows you to m
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/ZiyyaadAnthony/Hotel-Booking-Service-App.git
+   git clone https://github.com/ZiyyaadAnthony/hotel-booking-service.git
    cd hotel-booking-service
    ```
 
